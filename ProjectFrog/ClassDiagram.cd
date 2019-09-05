@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BoardHazards">
+    <Position X="5.25" Y="2" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAEEgBAAAAACAAAAAAAoAAAAARgAAAAAAA=</HashCode>
+      <FileName>BoardHazards.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameBoard">
+    <Position X="10.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAABAAAIAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>GameBoard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerFrog">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAEAIgAAAAAAAAAAAAAAAAQAACCAAAAAAAgA=</HashCode>
+      <FileName>PlayerFrog.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RunFrogGame">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CA8AAAEEAGwAFABAAAAIICAkACoAAAIAEAAAAAAABAA=</HashCode>
+      <FileName>RunFrogGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserInterface">
+    <Position X="8.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIQAAAAACAAAAAAAAgQAAAABAAAAEgACAAAAAAEAAA=</HashCode>
+      <FileName>UserInterface.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

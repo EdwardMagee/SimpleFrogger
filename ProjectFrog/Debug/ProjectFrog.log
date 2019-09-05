@@ -1,0 +1,14 @@
+﻿  UserInterface.cpp
+e:\games\frogger c\frogger c++\projectfrog\projectfrog\userinterface.cpp(38): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Main.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  RunFrogGame.cpp
+  PlayerFrog.cpp
+  GameBoard.cpp
+  BoardHazards.cpp
+  LINK : E:\Games\Frogger C\Frogger C++\ProjectFrog\Debug\ProjectFrog.exe not found or not built by the last incremental link; performing full link
+     Creating library E:\Games\Frogger C\Frogger C++\ProjectFrog\Debug\ProjectFrog.lib and object E:\Games\Frogger C\Frogger C++\ProjectFrog\Debug\ProjectFrog.exp
+sfml-main-d.lib(MainWin32.cpp.obj) : warning LNK4099: PDB 'vc140.pdb' was not found with 'sfml-main-d.lib(MainWin32.cpp.obj)' or at 'E:\Games\Frogger C\Frogger C++\ProjectFrog\Debug\vc140.pdb'; linking object as if no debug info
+  ProjectFrog.vcxproj -> E:\Games\Frogger C\Frogger C++\ProjectFrog\Debug\ProjectFrog.exe
+  ProjectFrog.vcxproj -> E:\Games\Frogger C\Frogger C++\ProjectFrog\Debug\ProjectFrog.pdb (Partial PDB)
